@@ -1,0 +1,8 @@
+<Configuraciones>
+	<OpcionesXml>
+		<Opciones ID="Conexion">
+		  <Opcion id="1" texto="" basedatos="laxuscontabilidad" host="localhost" instancia="SQLEXPRESS" user="laxususer" password="PJ3Slp2Tfn00JGfj5Id2OQ==" activo="S" mostrardato="N"/>
+		  <Opcion id="2" texto="" basedatos="laxusfacturaweb" host="localhost" instancia="SQLEXPRESS" user="laxususer" password="PJ3Slp2Tfn00JGfj5Id2OQ==" activo="N" mostrardato="N"/>
+		</Opciones>
+	</OpcionesXml>
+</Configuraciones>
